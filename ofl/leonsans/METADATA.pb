@@ -22,7 +22,7 @@ axes {
 }
 source {
   repository_url: "https://github.com/cmiscm/leonsansfont"
-  commit: "d97a51ac9c8e45d3479e1066ee8ce912789c1cd4"
+  commit: "eb01f15e2a9044f505e9a16660102bffc6c0a229"
   files {
     source_file: "OFL.txt"
     dest_file: "OFL.txt"
